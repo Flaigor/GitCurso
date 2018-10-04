@@ -3,3 +3,10 @@ Abel - Clérigo Nv.:13
 Paulo - Mago Nv.:14
 Phillipe - Paladino Nv.:16
 Mathias - Ladino Nv.:16
+-----------------------------
+Werneck - Bardo Nv.: 10
+Almir - Barbaro Nv.: 7
+Byel - Feiticeiro Nv.: 10
+Feliz - ???
+Marcos - Guerreiro Nv.: 18
+Maloi - Ladino Nv.: 5
