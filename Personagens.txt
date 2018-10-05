@@ -10,3 +10,7 @@ Byel - Feiticeiro Nv.: 10
 Feliz - ???
 Marcos - Guerreiro Nv.: 18
 Maloi - Ladino Nv.: 5
+Erick - Mago Nv.: 12
+Gustavo - Guerreiro Nv.: 18
+Emily - Gerreiro Nv.: 5
+Malcon - Guerreiro Nv.: 6
